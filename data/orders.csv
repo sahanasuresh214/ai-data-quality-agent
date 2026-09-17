@@ -1,0 +1,8 @@
+order_id,customer_id,customer_email,order_date,amount,status
+1001,C001,ava@example.com,2026-09-10,149.99,paid
+1002,C002,noah@example.com,2026-09-11,89.50,shipped
+1003,C003,mia@example.com,2026-09-12,220.00,pending
+1003,C003,mia@example.com,2026-09-12,220.00,paid
+1004,,liam@example.com,2026-09-13,75.25,paid
+1005,C005,emma@example.com,2026-09-14,-42.00,refunded
+1006,C006,olivia@example.com,2023-01-05,310.00,complete
